@@ -1,0 +1,16 @@
+=== Text File Analysis Results ===
+Number of Lines: 2
+Number of Words: 10
+Number of Characters: 38
+Most Frequent Word: you
+
+Word Frequencies:
+hi: 1
+how: 1
+help: 1
+later: 1
+thi: 1
+are: 1
+si: 1
+me: 1
+you: 2
